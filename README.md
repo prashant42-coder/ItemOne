@@ -45,7 +45,5 @@ spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/item-management-api.git
-cd item-management-api.
-
+git clone https://github.com/prashant42-coder/ItemOne.git
 
