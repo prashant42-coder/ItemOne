@@ -44,4 +44,6 @@ spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 ```bash
 git clone https://github.com/your-username/item-management-api.git
 cd item-management-api.
+![Screenshot (137)](https://github.com/user-attachments/assets/ea18306c-b5de-45a1-aed4-99b41cd3f38b)
+![Screenshot (138)](https://github.com/user-attachments/assets/2c957177-a388-4266-8674-7574876c3ecf)
 
